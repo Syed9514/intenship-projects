@@ -1,0 +1,3 @@
+directx11
+visualstudio86
+visual64
